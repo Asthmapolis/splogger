@@ -1,0 +1,23 @@
+{
+  "name": "splogger",
+  "version": "0.0.1",
+  "authors": [
+    "Jonathan Limbird <jonathan.limbird@propellerhealth.com>"
+  ],
+  "description": "a unique client-side logging tool",
+  "main": "./splogger.js",
+  "keywords": [
+    "logging",
+    "log",
+    "toasts",
+    "messaging"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
